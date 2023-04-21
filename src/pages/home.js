@@ -20,7 +20,7 @@ export default function FoodieHomePage() {
                     <h1
                         className="text-5xl text-white mx-auto font-bold mb-8"
                     >
-                        Welcome to Delivro!
+                        Welcome to Deliviro!
                     </h1>
                     <p
                         className="text-xl text-white text-center mb-8"
